@@ -1,0 +1,9 @@
+id,X1,X2,Class
+train1,40,1.72,thin
+train2,49,1.62,thin
+train3,58,1.71,thin
+train4,51,1.8,thin
+train5,81,1.59,fat
+train6,92,1.5,fat
+train7,100,1.58,fat
+train8,91,1.68,fat
